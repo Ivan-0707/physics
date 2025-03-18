@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(58, 58, 58);
+    color: rgb(222, 222, 222);
+}
+
+
+.exercise{
+    display: flex;
+    justify-content: center;
+
+}
